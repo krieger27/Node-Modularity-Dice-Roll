@@ -1,5 +1,0 @@
-#!/usr/local/bin node 
-
-"use strict"
-
-require("../lib/cli")
